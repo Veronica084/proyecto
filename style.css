@@ -1,0 +1,85 @@
+/**/
+
+/* escribir los datos de las peliculas y juegos
+ejemplo genero, pais, director, desarrolador, año de lanzamiento, protagonistas etc */
+
+/* tratar de hacer links de las screenshots a una nueva pestaña con la screenshot mas grande */
+
+/* tratar de insertar trailer de youtube */
+
+/* insertar las id divs class etc */
+
+/* terminar de hacer el wireframe con algun programa 
+https://miro.com/es/wireframe/
+
+https://www.capterra.es/blog/475/herramientas-wireframe-gratuitas-y-codigo-abierto
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap");
+
+body {
+  background-color: rgb(204, 202, 193);
+  font-size: 23px;
+  font-family: "Roboto", sans-serif;
+}
+
+body h2 {
+  text-decoration: underline;
+  color: rgb(0, 0, 0);
+}
+
+h2 {
+  text-align: center;
+}
+main {
+  text-align: center;
+}
+
+main section {
+  padding: 20px;
+}
+
+main section h3 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+main section article {
+  width: 50%;
+}
+
+ul {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(179, 184, 175);
+  border-radius: 8px;
+}
+
+main section article div {
+  margin: 10px;
+  background-color: bisque;
+  position: relative;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+main section article div span {
+  background-color: beige;
+}
+
+footer {
+  background-color: brown;
+}
+
+* {
+  p {
+    text-align: center;
+  }
+}
+
+form label {
+  text-decoration: none;
+}
